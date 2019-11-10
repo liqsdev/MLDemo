@@ -127,7 +127,7 @@ dmypy.json
 
 .gitignore
 
-MLDemo/.idea/misc.xml
-MLDemo/.idea/workspace.xml
-MLDemo/.idea/vcs.xml
-MLDemo/.idea
+.idea/misc.xml
+.idea/vcs.xml
+.idea
+.idea/workspace.xml
